@@ -1,4 +1,4 @@
-Intro to GraphQL Powered by Shopify
+## Intro to GraphQL Powered by Shopify
 
 This repository contains the sample code from the Intro to GraphQL Powered by Shopify workshop.
 
